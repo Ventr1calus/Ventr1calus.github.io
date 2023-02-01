@@ -3,7 +3,8 @@ Mang-usan, Vince
 
 Ⅱ⸻Ⅱ⸻Ⅱ⸻Ⅱ⸻Ⅱ⸻Ⅱ
 
-<img src="https://static.wikia.nocookie.net/breakingbad/images/0/05/Season_2_-_Jesse.jpg/revision/latest?cb=20090617154632" width="220" height="150" />
+<img src="https://user-images.githubusercontent.com/122424298/216066575-e79972ee-1d27-47e5-be16-c7780ac00a44.PNG" width="220" height="150" />
+
 
 >### yo yo yo 
 
@@ -13,7 +14,7 @@ Mang-usan, Vince
 
 ---
 
-* **A list of games I play**
+* **A list of games I play** ✦
 
 | ⛋ | — |
 | ----------- | ----------- |
@@ -26,7 +27,7 @@ Mang-usan, Vince
 
 ---
 
-* **Random Youtube Videos** ✦✦✦
+* **Random Youtube Videos** ✦✦
 
-<iframe width="800" height="400" src="https://www.youtube.com/embed/C8d12w6pMos" title="The Mandela Catalogue Vol. 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="600" height="300" src="https://www.youtube.com/embed/C8d12w6pMos" title="The Mandela Catalogue Vol. 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
