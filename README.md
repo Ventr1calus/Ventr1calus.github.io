@@ -15,13 +15,18 @@ Mang-usan, Vince
 ---
 
 * **A list of games I play**
-- CS:GO
-- Roblox
-- Genshin Impact ⚠️
-- TLauncher MCㅤ[Untouched]
-- Fortniteㅤㅤㅤㅤ[Untouched]
-- Valorantㅤㅤㅤㅤ[Untouched]
+
+| ⛋ | — |
+| ----------- | ----------- |
+| CS:GO | ̿̿ ̿̿ ̿̿ ̿'̿'\̵͇̿̿\з=( ͡° ͜ʖ ͡°)=ε/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿ |
+| Roblox | ▞ ( ■_■) |
+| Genshin Impact | ⚠☢☣☢⚠ |
+| TLauncher MC | [Untouched] |
+| Valorant | [Untouched] |
+| Fortnite | [Untouched] |
 ---
 
-* **Luxurious Youtube Videos** ✦✦✦
+* **Random Youtube Videos** ✦✦✦
+
+<iframe width="1423" height="620" src="https://www.youtube.com/embed/C8d12w6pMos" title="The Mandela Catalogue Vol. 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
