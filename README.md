@@ -29,5 +29,15 @@ Mang-usan, Vince
 
 * **Random Youtube Videos** ✦✦
 
-<iframe width="600" height="300" src="https://www.youtube.com/embed/C8d12w6pMos" title="The Mandela Catalogue Vol. 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+-<iframe width="600" height="300" src="https://www.youtube.com/embed/C8d12w6pMos" title="The Mandela Catalogue Vol. 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+-<iframe width="600" height="300" src="https://www.youtube.com/embed/BI7Abt5NTF0" title="Careless whispers. Cover." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+-<iframe width="600" height="300" src="https://www.youtube.com/embed/DAkVb74vBEY" title="Bear Who Fought Alongside Soldiers in World War 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+-<iframe width="600" height="300" src="https://www.youtube.com/embed/EiVyxCFZ__4" title="The Redditor that Vanished" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+-<iframe width="600" height="300" src="https://www.youtube.com/embed/9UAC2qkcrDY" title="Supa Hot Fire - The Rap Battle Parody (FULL VIDEO) [DeShawn Raw]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
 
